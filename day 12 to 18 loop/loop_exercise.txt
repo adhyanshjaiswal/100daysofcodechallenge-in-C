@@ -1,0 +1,28 @@
+1.Find the sum of natural numbers
+2.Find factorial of a number
+3.Generate multiplication table
+4.Display Fibonacci series   - 
+5.Find HCF of two numbers      
+6.Find LCM of two numbers  
+7.Count number of digits of an integer.    
+8.Reverse a number     
+9.Calculate the power of a number.     
+10.Check whether a number is a palindrome or not.   
+11.Check whether an integer is prime or Not.
+12.Display prime numbers between two intervals.
+13.Check Armstrong number.    
+14.Display Armstrong numbers between two intervals
+15.Display factors of a number
+16.Print pyramids and triangles
+
+*
+**
+***
+****
+*****
+
+    *
+   ***
+  *****
+ *******
+*********
